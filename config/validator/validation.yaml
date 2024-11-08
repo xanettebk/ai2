@@ -1,0 +1,44 @@
+App\Entity\Location:
+  properties:
+    city:
+      - NotBlank:
+          groups: ['create', 'edit']
+    country:
+      - NotBlank:
+          groups: ['create', 'edit']
+      - Length:
+          min: 2
+          max: 2
+          groups: ['create', 'edit']
+
+App\Entity\Measurement:
+  properties:
+    date:
+      - NotBlank:
+          groups: ['create', 'edit']
+    celsius:
+      - NotBlank:
+          groups: ['create', 'edit']
+      - Range:
+          min: -20
+          max: 40
+          groups: ['create', 'edit']
+    weather:
+      - Length:
+          max: 255
+          groups: ['create', 'edit']
+    wind_speed:
+      - Range:
+          min: 0
+          max: 150
+          groups: ['create', 'edit']
+    pressure:
+      - Range:
+          min: 900
+          max: 1100
+          groups: ['create', 'edit']
+    humidity:
+      - Range:
+          min: 0
+          max: 100
+          groups: ['create', 'edit']
