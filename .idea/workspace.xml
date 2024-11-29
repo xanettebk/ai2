@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e21c60d-0198-44cb-b10c-ae613f441ebc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/validator/validation.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/LocationController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/MeasurementController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Location.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/Measurement.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Form/LocationType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Form/MeasurementType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repository/LocationRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repository/MeasurementRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repository/UserRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/location/_delete_form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/location/_form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/location/edit.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/location/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/location/new.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/location/show.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/measurement/_delete_form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/measurement/_form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/measurement/edit.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/measurement/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/measurement/new.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/measurement/show.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/weather/city.html.twig" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="I:\AI2-lab\php-8.2.10-nts-Win32-vs16-x64\php.exe" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2pX9HHd1knpdxnAZYGzMq8YwWgc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "I:/AI2-lab/labB/pogodynka",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23339.16" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23339.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e21c60d-0198-44cb-b10c-ae613f441ebc" name="Changes" comment="" />
+      <created>1732901464273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732901464273</updated>
+      <workItem from="1732901465324" duration="17000" />
+    </task>
+    <servers />
+  </component>
+</project>

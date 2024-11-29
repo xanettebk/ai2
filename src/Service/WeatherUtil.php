@@ -28,10 +28,10 @@ class WeatherUtil
     /**
      * @return Measurement[]
      */
-    public function getWeatherForCountryAndCity(string $countryCode, string $city): array
+    public function getWeatherForCountryAndCity(string $country, string $city): array
     {
         $location = $this->locationRepository->findOneBy([
-            'country' => $countryCode,
+            'country' => $country,
             'city' => $city,
         ]);
 
